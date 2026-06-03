@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import { GraduationCap, Globe, ExternalLink } from 'lucide-react';
+import { GraduationCap } from 'lucide-react';
+import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
 
 const quickLinks = [
   { href: '/', label: 'Home' },
@@ -47,31 +48,31 @@ export default function Footer() {
             </p>
             <div className="flex items-center gap-4">
               <a
-                href="https://twitter.com"
+                href="https://github.com/HANSAJA122"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Twitter"
+                aria-label="Visit Shashith Hansaja GitHub"
                 className="text-slate-400 hover:text-white transition-colors"
               >
-                <Globe className="h-5 w-5" />
+                <FaGithub className="h-5 w-5" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/shashith-hansaja-931796247/"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="LinkedIn"
+                aria-label="Visit Shashith Hansaja LinkedIn"
                 className="text-slate-400 hover:text-white transition-colors"
               >
-                <ExternalLink className="h-5 w-5" />
+                <FaLinkedin className="h-5 w-5" />
               </a>
               <a
-                href="https://github.com"
+                href="mailto:whshansaja.w@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="GitHub"
+                aria-label="Email Shashith Hansaja"
                 className="text-slate-400 hover:text-white transition-colors"
               >
-                <Globe className="h-5 w-5" />
+                <FaEnvelope className="h-5 w-5" />
               </a>
             </div>
           </div>
@@ -130,8 +131,11 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-slate-800 dark:border-slate-700 mt-12 pt-8 pb-8">
-          <p className="text-slate-500 text-sm text-center">
-            © 2024 FreeCertify Hub. All rights reserved.
+          <p className="text-slate-500 text-sm text-center mb-1">
+            © 2026 <span className="text-[#2563EB] font-medium">Shashith Hansaja</span>. All rights reserved.
+          </p>
+          <p className="text-slate-500 text-xs text-center">
+            Designed and developed by Shashith Hansaja
           </p>
         </div>
       </div>
