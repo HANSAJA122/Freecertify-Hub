@@ -13,7 +13,7 @@ export const platformsInfo = [
     "certificateAvailability": "Free courses available with audit option. Certificates may require payment for some courses, but many offer free certificates upon completion.",
     "platformUrl": "https://www.coursera.org",
     "color": "#0056D2",
-    "logo": "/platform-logos/coursera.png"
+    "logo": "/platform-logos/coursera.svg"
   },
   {
     "id": "hp-life",
@@ -27,7 +27,7 @@ export const platformsInfo = [
     "certificateAvailability": "All courses are completely free and include a free certificate of completion upon finishing each course.",
     "platformUrl": "https://www.life-global.org",
     "color": "#0096D6",
-    "logo": "/platform-logos/hp-life.png"
+    "logo": "/platform-logos/hp-life.svg"
   },
   {
     "id": "ibm-skillsbuild",
@@ -43,7 +43,7 @@ export const platformsInfo = [
     "certificateAvailability": "All courses include free digital certificates and badges upon successful completion, recognized across the industry.",
     "platformUrl": "https://skillsbuild.org",
     "color": "#054ADA",
-    "logo": "/platform-logos/ibm.png"
+    "logo": "/platform-logos/ibm.svg"
   },
   {
     "id": "great-learning",
@@ -58,7 +58,7 @@ export const platformsInfo = [
     "certificateAvailability": "Free courses come with a free certificate of completion. Premium programs offer advanced certifications from partner universities.",
     "platformUrl": "https://www.mygreatlearning.com/academy",
     "color": "#2D8BBA",
-    "logo": "/platform-logos/great-learning.png"
+    "logo": "/platform-logos/great-learning.svg"
   },
   {
     "id": "google-digital-garage",
@@ -73,7 +73,7 @@ export const platformsInfo = [
     "certificateAvailability": "All courses are free and many include a Google-accredited certificate upon completion, adding credibility to your resume.",
     "platformUrl": "https://learndigital.withgoogle.com/digitalgarage",
     "color": "#4285F4",
-    "logo": "/platform-logos/google.png"
+    "logo": "/platform-logos/google.svg"
   },
   {
     "id": "cisco-networking-academy",
@@ -87,7 +87,7 @@ export const platformsInfo = [
     "certificateAvailability": "Free courses include digital badges upon completion. Courses also serve as preparation for Cisco professional certifications like CCNA.",
     "platformUrl": "https://www.netacad.com",
     "color": "#049FD9",
-    "logo": "/platform-logos/cisco.png"
+    "logo": "/platform-logos/cisco.svg"
   },
   {
     "id": "fortinet-training",
@@ -100,7 +100,7 @@ export const platformsInfo = [
     "certificateAvailability": "Free courses include digital badges. The Fortinet Certified Fundamentals (FCF) certification is available at no cost through the training program.",
     "platformUrl": "https://training.fortinet.com",
     "color": "#EE3124",
-    "logo": "/platform-logos/fortinet.png"
+    "logo": "/platform-logos/fortinet.svg"
   },
   {
     "id": "microsoft-learn",
@@ -115,7 +115,7 @@ export const platformsInfo = [
     "certificateAvailability": "All learning paths and modules are free. Completing paths earns digital badges, and courses prepare you for paid Microsoft certification exams.",
     "platformUrl": "https://learn.microsoft.com",
     "color": "#00A4EF",
-    "logo": "/platform-logos/microsoft.png"
+    "logo": "/platform-logos/microsoft.svg"
   },
   {
     "id": "linkedin-learning-free",
@@ -129,7 +129,7 @@ export const platformsInfo = [
     "certificateAvailability": "Free courses include a certificate of completion that can be added directly to your LinkedIn profile for professional visibility.",
     "platformUrl": "https://www.linkedin.com/learning",
     "color": "#0A66C2",
-    "logo": "/platform-logos/linkedin.png"
+    "logo": "/platform-logos/linkedin.svg"
   },
   {
     "id": "alison",
@@ -145,7 +145,7 @@ export const platformsInfo = [
     "certificateAvailability": "All courses are free to study. Digital certificates and diplomas are available, with options for both free digital and paid printed certificates.",
     "platformUrl": "https://alison.com",
     "color": "#00B140",
-    "logo": "/platform-logos/alison.png"
+    "logo": "/platform-logos/alison.svg"
   },
   {
     "id": "simplilearn-skillup",
@@ -161,7 +161,7 @@ export const platformsInfo = [
     "certificateAvailability": "All SkillUp courses are free and include a certificate of completion upon finishing the course and passing the final assessment.",
     "platformUrl": "https://www.simplilearn.com/skillup-free-online-courses",
     "color": "#0058CC",
-    "logo": "/platform-logos/simplilearn.png"
+    "logo": "/platform-logos/simplilearn.svg"
   },
   {
     "id": "openlearn",
@@ -177,6 +177,6 @@ export const platformsInfo = [
     "certificateAvailability": "Most courses include a free statement of participation or digital badge upon completion. Some courses offer OpenLearn certificates.",
     "platformUrl": "https://www.open.edu/openlearn",
     "color": "#6E2D91",
-    "logo": "/platform-logos/openlearn.png"
+    "logo": "/platform-logos/openlearn.svg"
   }
 ];
