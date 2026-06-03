@@ -35,7 +35,8 @@ export default function CourseSummaryCard({
     providerLogo,
     courseUrl,
     ctaText,
-    category
+    category,
+    linkAccuracy
   } = course;
 
   const difficultyVariant =
@@ -121,6 +122,14 @@ export default function CourseSummaryCard({
         {/* Action Buttons */}
         <div className="flex flex-col gap-3">
           
+          {/* Link Accuracy Label */}
+          {linkAccuracy && (
+            <div className="text-[10px] uppercase font-bold tracking-wider text-slate-400 dark:text-slate-500 text-center -mb-1 mt-1">
+              {linkAccuracy === 'Exact Course Page' ? '🎯 ' : '🔍 '}
+              {linkAccuracy}
+            </div>
+          )}
+
           {/* Primary CTA */}
           {courseUrl ? (
             <a

@@ -31,11 +31,12 @@ export const courses = [
       "Job seekers"
     ],
     "providerInfo": "IBM SkillsBuild offers free digital learning resources for students and professionals looking to build in-demand technology skills.",
-    "courseUrl": "https://skillsbuild.org",
+    "courseUrl": "https://skillsbuild.org/adult-learners/explore-learning/artificial-intelligence",
     "image": "/course-images/ai-course.jpg",
     "providerLogo": "/platform-logos/ibm.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "ai-002",
@@ -71,11 +72,12 @@ export const courses = [
       "Beginners"
     ],
     "providerInfo": "Coursera partners with top universities and organizations worldwide to offer flexible, affordable online learning.",
-    "courseUrl": "https://www.coursera.org",
+    "courseUrl": "https://www.coursera.org/learn/ai-for-everyone",
     "image": "/course-images/ai-course.jpg",
     "providerLogo": "/platform-logos/coursera.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "ai-003",
@@ -110,11 +112,12 @@ export const courses = [
       "Content creators"
     ],
     "providerInfo": "Great Learning offers free and paid courses in technology, data science, and business, with industry-recognized certifications.",
-    "courseUrl": "https://www.mygreatlearning.com/academy",
+    "courseUrl": "https://www.mygreatlearning.com/academy/learn-for-free/courses/prompt-engineering-for-beginners",
     "image": "/course-images/ai-course.jpg",
     "providerLogo": "/platform-logos/great-learning.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "cs-001",
@@ -151,11 +154,12 @@ export const courses = [
       "Career changers"
     ],
     "providerInfo": "Cisco Networking Academy provides free IT curriculum and career resources to students and professionals worldwide.",
-    "courseUrl": "https://www.netacad.com",
+    "courseUrl": "https://skillsforall.com/course/cybersecurity-essentials",
     "image": "/course-images/cybersecurity-course.jpg",
     "providerLogo": "/platform-logos/cisco.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "cs-002",
@@ -191,11 +195,12 @@ export const courses = [
       "Security enthusiasts"
     ],
     "providerInfo": "Coursera partners with top universities and organizations worldwide to offer flexible, affordable online learning.",
-    "courseUrl": "https://www.coursera.org",
+    "courseUrl": "https://www.coursera.org/learn/introduction-cyber-attacks",
     "image": "/course-images/cybersecurity-course.jpg",
     "providerLogo": "/platform-logos/coursera.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "cs-003",
@@ -230,11 +235,12 @@ export const courses = [
       "Beginners"
     ],
     "providerInfo": "Fortinet Training Institute provides free cybersecurity training and certification programs to help close the cyber skills gap.",
-    "courseUrl": "https://training.fortinet.com",
+    "courseUrl": "https://training.fortinet.com/local/fortinet/courses.php",
     "image": "/course-images/cybersecurity-course.jpg",
     "providerLogo": "/platform-logos/fortinet.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "View Course Catalog",
+    "linkAccuracy": "Official Catalog Page"
   },
   {
     "id": "cs-004",
@@ -272,11 +278,12 @@ export const courses = [
       "Certification seekers"
     ],
     "providerInfo": "Fortinet Training Institute provides free cybersecurity training and certification programs to help close the cyber skills gap.",
-    "courseUrl": "https://training.fortinet.com",
+    "courseUrl": "https://training.fortinet.com/local/custom/program.php?id=51",
     "image": "/course-images/cybersecurity-course.jpg",
     "providerLogo": "/platform-logos/fortinet.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "net-001",
@@ -313,11 +320,12 @@ export const courses = [
       "Career changers"
     ],
     "providerInfo": "Cisco Networking Academy provides free IT curriculum and career resources to students and professionals worldwide.",
-    "courseUrl": "https://www.netacad.com",
+    "courseUrl": "https://skillsforall.com/course/networking-basics",
     "image": "/course-images/networking-course.jpg",
     "providerLogo": "/platform-logos/cisco.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "net-002",
@@ -352,11 +360,12 @@ export const courses = [
       "Lab learners"
     ],
     "providerInfo": "Cisco Networking Academy provides free IT curriculum and career resources to students and professionals worldwide.",
-    "courseUrl": "https://www.netacad.com",
+    "courseUrl": "https://skillsforall.com/course/getting-started-cisco-packet-tracer",
     "image": "/course-images/networking-course.jpg",
     "providerLogo": "/platform-logos/cisco.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "web-001",
@@ -391,11 +400,12 @@ export const courses = [
       "Career changers"
     ],
     "providerInfo": "IBM SkillsBuild offers free digital learning resources for students and professionals looking to build in-demand technology skills.",
-    "courseUrl": "https://skillsbuild.org",
+    "courseUrl": "https://skillsbuild.org/adult-learners",
     "image": "/course-images/web-development-course.jpg",
     "providerLogo": "/platform-logos/ibm.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "View Course Catalog",
+    "linkAccuracy": "Official Catalog Page"
   },
   {
     "id": "web-002",
@@ -432,11 +442,12 @@ export const courses = [
       "Self-taught developers"
     ],
     "providerInfo": "Coursera partners with top universities and organizations worldwide to offer flexible, affordable online learning.",
-    "courseUrl": "https://www.coursera.org",
+    "courseUrl": "https://www.coursera.org/learn/html-css-javascript-for-web-developers",
     "image": "/course-images/web-development-course.jpg",
     "providerLogo": "/platform-logos/coursera.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "web-003",
@@ -474,11 +485,12 @@ export const courses = [
       "Web development students"
     ],
     "providerInfo": "Simplilearn SkillUp provides free online courses in technology, data science, and business to help learners advance their careers.",
-    "courseUrl": "https://www.simplilearn.com/skillup-free-online-courses",
+    "courseUrl": "https://www.simplilearn.com/learn-reactjs-basics-free-course-skillup",
     "image": "/course-images/web-development-course.jpg",
     "providerLogo": "/platform-logos/simplilearn.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "ds-001",
@@ -514,11 +526,12 @@ export const courses = [
       "Business analysts"
     ],
     "providerInfo": "IBM SkillsBuild offers free digital learning resources for students and professionals looking to build in-demand technology skills.",
-    "courseUrl": "https://skillsbuild.org",
+    "courseUrl": "https://skillsbuild.org/adult-learners",
     "image": "/course-images/data-science-course.jpg",
     "providerLogo": "/platform-logos/ibm.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "View Course Catalog",
+    "linkAccuracy": "Official Catalog Page"
   },
   {
     "id": "ds-002",
@@ -555,11 +568,12 @@ export const courses = [
       "Marketing analysts"
     ],
     "providerInfo": "Google Digital Garage offers free online courses on digital skills, career development, and data literacy powered by Google.",
-    "courseUrl": "https://learndigital.withgoogle.com/digitalgarage",
+    "courseUrl": "https://learndigital.withgoogle.com/digitalgarage/course/data-analytics-basics",
     "image": "/course-images/data-science-course.jpg",
     "providerLogo": "/platform-logos/google.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "ds-003",
@@ -597,11 +611,12 @@ export const courses = [
       "Data science students"
     ],
     "providerInfo": "Coursera partners with top universities and organizations worldwide to offer flexible, affordable online learning.",
-    "courseUrl": "https://www.coursera.org",
+    "courseUrl": "https://www.coursera.org/learn/python-data-analysis",
     "image": "/course-images/data-science-course.jpg",
     "providerLogo": "/platform-logos/coursera.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "biz-001",
@@ -636,11 +651,12 @@ export const courses = [
       "Entrepreneurs"
     ],
     "providerInfo": "HP LIFE offers free online business and IT courses designed by Hewlett-Packard to empower entrepreneurs and small business owners worldwide.",
-    "courseUrl": "https://www.life-global.org",
+    "courseUrl": "https://www.life-global.org/courses",
     "image": "/course-images/business-course.jpg",
     "providerLogo": "/platform-logos/hp-life.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "View Course Catalog",
+    "linkAccuracy": "Official Catalog Page"
   },
   {
     "id": "pm-001",
@@ -677,11 +693,12 @@ export const courses = [
       "Business professionals"
     ],
     "providerInfo": "Google Digital Garage offers free online courses on digital skills, career development, and data literacy powered by Google.",
-    "courseUrl": "https://learndigital.withgoogle.com/digitalgarage",
+    "courseUrl": "https://learndigital.withgoogle.com/digitalgarage/course/project-management",
     "image": "/course-images/project-management-course.jpg",
     "providerLogo": "/platform-logos/google.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "pm-002",
@@ -718,11 +735,12 @@ export const courses = [
       "Team leaders"
     ],
     "providerInfo": "Coursera partners with top universities and organizations worldwide to offer flexible, affordable online learning.",
-    "courseUrl": "https://www.coursera.org",
+    "courseUrl": "https://www.coursera.org/learn/agile-project-management",
     "image": "/course-images/project-management-course.jpg",
     "providerLogo": "/platform-logos/coursera.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "pm-003",
@@ -757,11 +775,12 @@ export const courses = [
       "Development team members"
     ],
     "providerInfo": "Simplilearn SkillUp provides free online courses in technology, data science, and business to help learners advance their careers.",
-    "courseUrl": "https://www.simplilearn.com/skillup-free-online-courses",
+    "courseUrl": "https://www.simplilearn.com/scrum-fundamentals-free-course-skillup",
     "image": "/course-images/project-management-course.jpg",
     "providerLogo": "/platform-logos/simplilearn.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "dm-001",
@@ -798,11 +817,12 @@ export const courses = [
       "Entrepreneurs"
     ],
     "providerInfo": "Google Digital Garage offers free online courses on digital skills, career development, and data literacy powered by Google.",
-    "courseUrl": "https://learndigital.withgoogle.com/digitalgarage",
+    "courseUrl": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing",
     "image": "/course-images/digital-marketing-course.jpg",
     "providerLogo": "/platform-logos/google.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "dm-002",
@@ -837,11 +857,12 @@ export const courses = [
       "Website owners"
     ],
     "providerInfo": "Alison is a free online education platform offering thousands of courses and certificate programs across various disciplines.",
-    "courseUrl": "https://alison.com",
+    "courseUrl": "https://alison.com/course/seo-basics",
     "image": "/course-images/digital-marketing-course.jpg",
     "providerLogo": "/platform-logos/alison.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "dm-003",
@@ -876,11 +897,12 @@ export const courses = [
       "Entrepreneurs"
     ],
     "providerInfo": "HP LIFE offers free online business and IT courses designed by Hewlett-Packard to empower entrepreneurs and small business owners worldwide.",
-    "courseUrl": "https://www.life-global.org",
+    "courseUrl": "https://www.life-global.org/course/social-media-marketing",
     "image": "/course-images/digital-marketing-course.jpg",
     "providerLogo": "/platform-logos/hp-life.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "ss-001",
@@ -916,11 +938,12 @@ export const courses = [
       "Job seekers"
     ],
     "providerInfo": "Alison is a free online education platform offering thousands of courses and certificate programs across various disciplines.",
-    "courseUrl": "https://alison.com",
+    "courseUrl": "https://alison.com/course/business-communication",
     "image": "/course-images/soft-skills-course.jpg",
     "providerLogo": "/platform-logos/alison.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "ss-002",
@@ -955,11 +978,12 @@ export const courses = [
       "Career changers"
     ],
     "providerInfo": "LinkedIn Learning Free Resources offers select professional development courses at no cost to help you advance your career.",
-    "courseUrl": "https://www.linkedin.com/learning",
+    "courseUrl": "https://www.linkedin.com/learning/professional-networking",
     "image": "/course-images/soft-skills-course.jpg",
     "providerLogo": "/platform-logos/linkedin.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "cc-001",
@@ -996,11 +1020,12 @@ export const courses = [
       "Business decision-makers"
     ],
     "providerInfo": "Microsoft Learn provides free, interactive learning paths and modules for Microsoft technologies, Azure cloud services, and developer tools.",
-    "courseUrl": "https://learn.microsoft.com",
+    "courseUrl": "https://learn.microsoft.com/en-us/training/modules/cloud-computing-basics/",
     "image": "/course-images/cloud-course.jpg",
     "providerLogo": "/platform-logos/microsoft.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "cc-002",
@@ -1038,11 +1063,12 @@ export const courses = [
       "Certification seekers"
     ],
     "providerInfo": "Microsoft Learn provides free, interactive learning paths and modules for Microsoft technologies, Azure cloud services, and developer tools.",
-    "courseUrl": "https://learn.microsoft.com",
+    "courseUrl": "https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/",
     "image": "/course-images/cloud-course.jpg",
     "providerLogo": "/platform-logos/microsoft.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "dm-004",
@@ -1079,11 +1105,12 @@ export const courses = [
       "Marketing students"
     ],
     "providerInfo": "Google Digital Garage offers free online courses on digital skills, career development, and data literacy powered by Google.",
-    "courseUrl": "https://learndigital.withgoogle.com/digitalgarage",
+    "courseUrl": "https://learndigital.withgoogle.com/digitalgarage/course/google-analytics-basics",
     "image": "/course-images/digital-marketing-course.jpg",
     "providerLogo": "/platform-logos/google.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "biz-002",
@@ -1119,11 +1146,12 @@ export const courses = [
       "Small business owners"
     ],
     "providerInfo": "HP LIFE offers free online business and IT courses designed by Hewlett-Packard to empower entrepreneurs and small business owners worldwide.",
-    "courseUrl": "https://www.life-global.org",
+    "courseUrl": "https://www.life-global.org/course/entrepreneurship-basics",
     "image": "/course-images/business-course.jpg",
     "providerLogo": "/platform-logos/hp-life.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "ss-003",
@@ -1158,11 +1186,12 @@ export const courses = [
       "Business professionals"
     ],
     "providerInfo": "Alison is a free online education platform offering thousands of courses and certificate programs across various disciplines.",
-    "courseUrl": "https://alison.com",
+    "courseUrl": "https://alison.com/course/customer-service-skills",
     "image": "/course-images/soft-skills-course.jpg",
     "providerLogo": "/platform-logos/alison.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "Start This Course",
+    "linkAccuracy": "Exact Course Page"
   },
   {
     "id": "ss-004",
@@ -1199,11 +1228,12 @@ export const courses = [
       "Career changers"
     ],
     "providerInfo": "IBM SkillsBuild offers free digital learning resources for students and professionals looking to build in-demand technology skills.",
-    "courseUrl": "https://skillsbuild.org",
+    "courseUrl": "https://skillsbuild.org/adult-learners",
     "image": "/course-images/soft-skills-course.jpg",
     "providerLogo": "/platform-logos/ibm.png",
     "isFree": true,
-    "ctaText": "Start Free Certificate"
+    "ctaText": "View Course Catalog",
+    "linkAccuracy": "Official Catalog Page"
   }
 ];
 
