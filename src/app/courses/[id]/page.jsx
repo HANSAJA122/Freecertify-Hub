@@ -294,6 +294,31 @@ export default function CourseDetailsPage({ params }) {
               </section>
             )}
 
+            {/* ── How to get this certificate ────────────────────── */}
+            <section className="mb-10">
+              <h2 className="text-xl font-bold text-[#0F172A] dark:text-white mb-4">
+                How to get this certificate
+              </h2>
+              <div className="bg-white dark:bg-slate-800 rounded-xl border border-[#E2E8F0] dark:border-slate-800 p-5">
+                <ol className="list-decimal list-inside space-y-3 text-sm text-[#334155] dark:text-slate-400 mb-6 marker:text-[#2563EB] marker:font-semibold">
+                  <li>Click the <strong className="text-[#0F172A] dark:text-white">Start Free Certificate</strong> button.</li>
+                  <li>Create or sign in to the official learning platform.</li>
+                  <li>Enroll in the free course.</li>
+                  <li>Complete the lessons or assessment.</li>
+                  <li>Download or claim your certificate if available.</li>
+                </ol>
+                
+                <div className="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg border border-blue-100 dark:border-blue-900/30">
+                  <div className="flex items-start gap-3">
+                    <ExternalLink className="h-5 w-5 text-[#2563EB] shrink-0 mt-0.5" />
+                    <p className="text-xs text-blue-800 dark:text-blue-300 leading-relaxed">
+                      <strong>Disclaimer:</strong> FreeCertify Hub does not host this course. You will be redirected to the official provider website. Certificate availability may change based on the provider&apos;s policy.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </section>
+
             {/* ── Summary card — mobile (shown below content) ───── */}
             <div className="lg:hidden mb-10">
               <CourseSummaryCard
